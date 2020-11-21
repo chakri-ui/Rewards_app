@@ -1,0 +1,184 @@
+[
+  {
+    "customerId": 1,
+    "custName": "Alex",
+    "expenses": [
+      {
+        "date": "01-01-2020",
+        "amount": 120
+      },
+      {
+        "date": "01-15-2020",
+        "amount": 250
+      },
+      {
+        "date": "01-20-2020",
+        "amount": 120
+      },
+      {
+        "date": "02-01-2020",
+        "amount": 20
+      },
+      {
+        "date": "03-01-2020",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "customerId": 2,
+    "custName": "John Smith",
+    "expenses": [
+      {
+        "date": "01-01-2020",
+        "amount": 150
+      },
+      {
+        "date": "01-15-2020",
+        "amount": 250
+      },
+      {
+        "date": "01-20-2020",
+        "amount": 120
+      },
+      {
+        "date": "02-01-2020",
+        "amount": 20
+      },
+      {
+        "date": "03-01-2020",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "customerId": 3,
+    "custName": "John Doe",
+    "expenses": [
+      {
+        "date": "01-01-2020",
+        "amount": 150
+      },
+      {
+        "date": "01-15-2020",
+        "amount": 250
+      },
+      {
+        "date": "01-20-2020",
+        "amount": 120
+      },
+      {
+        "date": "02-01-2020",
+        "amount": 20
+      },
+      {
+        "date": "03-01-2020",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "customerId": 4,
+    "custName": "Andrew",
+    "expenses": [
+      {
+        "date": "01-01-2020",
+        "amount": 150
+      },
+      {
+        "date": "01-15-2020",
+        "amount": 678
+      },
+      {
+        "date": "01-20-2020",
+        "amount": 120
+      },
+      {
+        "date": "02-01-2020",
+        "amount": 20
+      },
+      {
+        "date": "03-01-2020",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "customerId": 5,
+    "custName": "Sachin",
+    "expenses": [
+      {
+        "date": "01-01-2020",
+        "amount": 150
+      },
+      {
+        "date": "01-15-2020",
+        "amount": 324
+      },
+      {
+        "date": "01-20-2020",
+        "amount": 120
+      },
+      {
+        "date": "02-01-2020",
+        "amount": 20
+      },
+      {
+        "date": "03-01-2020",
+        "amount": 445
+      }
+    ]
+  },
+  {
+    "customerId": 6,
+    "custName": "Adam",
+    "expenses": [
+      {
+        "date": "01-01-2020",
+        "amount": 150
+      },
+      {
+        "date": "01-15-2020",
+        "amount": 127
+      },
+      {
+        "date": "01-20-2020",
+        "amount": 120
+      },
+      {
+        "date": "02-01-2020",
+        "amount": 200
+      },
+      {
+        "date": "03-01-2020",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "customerId": 7,
+    "custName": "Shawn",
+    "expenses": [
+      {
+        "date": "01-01-2020",
+        "amount": 150
+      },
+      {
+        "date": "01-15-2020",
+        "amount": 250
+      },
+      {
+        "date": "01-20-2020",
+        "amount": 120
+      },
+      {
+        "date": "02-01-2020",
+        "amount": 20
+      },
+      {
+        "date": "03-01-2020",
+        "amount": 400
+      }
+    ]
+  }
+]
